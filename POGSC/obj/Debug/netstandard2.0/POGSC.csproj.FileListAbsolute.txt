@@ -1,0 +1,12 @@
+/Users/emerson.garcia/Projects/POGSC/POGSC/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/emerson.garcia/Projects/POGSC/POGSC/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/emerson.garcia/Projects/POGSC/POGSC/obj/Debug/netstandard2.0/POGSC.csproj.CoreCompileInputs.cache
+/Users/emerson.garcia/Projects/POGSC/POGSC/obj/Debug/netstandard2.0/POGSC.AssemblyInfoInputs.cache
+/Users/emerson.garcia/Projects/POGSC/POGSC/obj/Debug/netstandard2.0/POGSC.AssemblyInfo.cs
+/Users/emerson.garcia/Projects/POGSC/POGSC/bin/Debug/netstandard2.0/POGSC.deps.json
+/Users/emerson.garcia/Projects/POGSC/POGSC/bin/Debug/netstandard2.0/POGSC.dll
+/Users/emerson.garcia/Projects/POGSC/POGSC/bin/Debug/netstandard2.0/POGSC.pdb
+/Users/emerson.garcia/Projects/POGSC/POGSC/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/emerson.garcia/Projects/POGSC/POGSC/obj/Debug/netstandard2.0/POGSC.dll
+/Users/emerson.garcia/Projects/POGSC/POGSC/obj/Debug/netstandard2.0/POGSC.pdb
+/Users/emerson.garcia/Projects/POGSC/POGSC/obj/Debug/netstandard2.0/POGSC.csprojAssemblyReference.cache

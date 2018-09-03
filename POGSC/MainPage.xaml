@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:POGSC" x:Class="POGSC.MainPage">
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Image Source="{Binding ImageSource}"/>
+        <Button Text="Tirar foto" Command="{Binding FotoCommand}"/>
+        <Button Text="Analisar Imagem" Command="{Binding AnalCommand}"/>
+    </StackLayout>
+</ContentPage>
